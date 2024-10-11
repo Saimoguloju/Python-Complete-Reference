@@ -1,5 +1,7 @@
 # Python Complete Reference
 
+[Read this article to know more about PP](https://medium.com/@saimoguloju2/python-programming-f6e71eab4000)
+
 I am Moguloju Sai, Data Science Engineer.
 
 You can contact me on:
